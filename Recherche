@@ -23,16 +23,3 @@ Certains langages de script traditionnellement utilisés sans étape de compilat
 Certains langages de programmation utilisés traditionnellement avec une étape de compilation explicite sont C, C ++.
 Applications des langages de script:
 
-1. Automatiser certaines tâches dans un programme
-
-2. Extraction d'informations d'un ensemble de données
-
-3. Moins gourmand en code que les langages de programmation traditionnels
-
-Applications des langages de programmation:
-
-1. Ils fonctionnent généralement dans un programme parent, comme des scripts.
-
-2. Plus compatible lors de l'intégration de code avec des modèles mathématiques
-
-3. Des langages comme JAVA peuvent être compilés puis utilisés sur n’importe quelle plate-forme 
