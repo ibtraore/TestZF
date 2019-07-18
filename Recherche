@@ -1,0 +1,38 @@
+Difference entre environnement et plateforme
+
+IDE signifie "Integrated Development Environment", c'est à dire littéralement un "environnement de développement intégré".
+
+C'est donc un environnement qui facilite la vie du programmeur en permettant l'intégration des fonctionnalités utiles au développement d'applications, ainsi : la création de projets, l'édition de codes sources, la gestion, à partir du même outil, de la compilation, de l'édition de liens et du débogage.
+
+L'IDE est un programme. C'est une sorte d'outil "qui fait la glue" entre les différents éléments nécessaires et qui sont parfois externes à l'EDI lui même : compilateur, éditeur de liens, débogueur par exemple.
+
+A titre d'exemple, Codeblocks est un IDE, Eclipse est un IDE, mais ces programmes ont besoin d'une suite de programmes externes pour constituer une plateforme de développement. Ils se contentent d'intégrer et interfacer le fonctionnement de ces outils dans un environnement qui en facilite l'usage centralisé à partir d'un seul programme.
+
+Il existe aussi, cependant, des EDI qui sont aussi des plateformes de développement directement opérationnelles, par exemple Microsoft Visual Studio, Delphi : en obtenant ces plateformes de développement, tu as tous les outils pour programmer de A à Z.
+
+Le terme de "plateforme de développement" est plus générique et renvoie à l'idée des différents éléments nécessaires pour développer. 
+
+Différence entre script et langage de programmation
+
+Fondamentalement, tous les langages de script sont des langages de programmation. La différence théorique entre les deux réside dans le fait que les langages de script ne nécessitent pas l'étape de compilation et sont plutôt interprétés. Par exemple, normalement, un programme C doit être compilé avant d'être exécuté, alors qu'un langage de script tel que JavaScript ou PHP n'a pas besoin d'être compilé.
+
+Généralement, les programmes compilés s'exécutent plus rapidement que les programmes interprétés, car ils sont d'abord convertis en code machine natif. En outre, les compilateurs lisent et analysent le code une seule fois et signalent les erreurs que le code pourrait avoir, mais l'interpréteur lira et analysera les instructions de code chaque fois qu'il les rencontrera et s'arrêtera à cette instance même s'il y a une erreur. En pratique, la distinction entre les deux devient floue en raison de l'amélioration des capacités de calcul du matériel moderne et des pratiques de codage avancées.Un autre point à noter est que, tout en classant un langage en langage de script ou en langage de programmation, l'environnement sur lequel il s'exécute doit être pris en compte. C’est important parce que nous pouvons concevoir un interpréteur pour le langage C et l’utiliser comme langage de script. Parallèlement, nous pouvons concevoir un compilateur pour JavaScript et l’utiliser comme langage non-scripté (langage compilé). V8, le moteur JavaScript de Google Chrome, en est un exemple concret. Il compile le code JavaScript en code machine plutôt que de l’interpréter.
+
+Certains langages de script traditionnellement utilisés sans étape de compilation explicite sont JavaScript, PHP, Python, VBScript.
+
+Certains langages de programmation utilisés traditionnellement avec une étape de compilation explicite sont C, C ++.
+Applications des langages de script:
+
+1. Automatiser certaines tâches dans un programme
+
+2. Extraction d'informations d'un ensemble de données
+
+3. Moins gourmand en code que les langages de programmation traditionnels
+
+Applications des langages de programmation:
+
+1. Ils fonctionnent généralement dans un programme parent, comme des scripts.
+
+2. Plus compatible lors de l'intégration de code avec des modèles mathématiques
+
+3. Des langages comme JAVA peuvent être compilés puis utilisés sur n’importe quelle plate-forme 
